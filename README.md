@@ -1,2 +1,1 @@
-# AccountStatementToDatabase
-A tool to read account statements and write it to a database
+I've implemented for HDFC bank's account statement.
