@@ -1,7 +1,3 @@
-# Ensure databse and tables exist
-
-# Populate from input
-
 from DatabaseWriter import DatabaseWriter
 from SqlCommand import SqlCommand
 
