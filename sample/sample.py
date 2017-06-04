@@ -1,8 +1,6 @@
 import sys
 sys.path.append('../src')
 
-from pprint import pprint
-
 from HdfcInputReader import HdfcInputReader
 from HdfcSqliteDatabaseWriter import HdfcSqliteDatabaseWriter
 from HdfcSqliteRepository import HdfcSqliteRepository
